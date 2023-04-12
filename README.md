@@ -11,5 +11,5 @@
 # Использованные сервисы
 
 Всё использованные сервисы для создания этого сайта: <br>
-[![My Skills](https://skillicons.dev/icons?i=vercel,kotlin,java,ts,github,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,kotlin,github,vscode,idea)](https://skillicons.dev)
 
